@@ -1,0 +1,1 @@
+cd \Bitnami\wampstack-8.0.10-1\apache2\htdocs\syntax
